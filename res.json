@@ -1,7 +1,13 @@
 [
   {
     "username": "tedy",
-    "password": "ressaturn",
-    "nama": "Reseller Saturn"
+    "password": "saturn",
+    "nama": "TedyScary Ress Saturn",
+    "email": "saturnservice@kyxzan.id",
+    "phone": "t.me/Tedyscary",
+    "plan": "premium",
+    "expired": "2026-10-01",
+    "status": "active",
+    "quota": 100
   }
 ]
