@@ -1,12 +1,24 @@
 [
   {
-    "username": "admin",
+    "username": "kyxzan",
     "password": "saturn",
-    "nama": "Kyxsan Developer"
+    "nama": "Developer Saturn X-version",
+    "email": "saturnservice@kyxzan.id",
+    "phone": "t.me/Kyxsancs",
+    "plan": "developer",
+    "expired": "2026-12-31",
+    "status": "active",
+    "quota": "unlimited"
   },
   {
-    "username": "tegarpmks",
+    "username": "tegar",
     "password": "rahasiya",
-    "nama": "Kacung Kyxzan"
+    "nama": "Kacung Kyxzan",
+    "email": "saturnservice@kyxzan.id",
+    "phone": "t.me/Ndanz01",
+    "plan": "kacung",
+    "expired": "2026-01-31",
+    "status": "active",
+    "quota": 9999
   }
 ]
